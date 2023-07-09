@@ -17,7 +17,7 @@
             android:layout_margin="8dp"
             android:background="@drawable/search_bar_bg"
             android:completionHintView="@layout/hint_text"
-            android:hint="Podaj nazwę przystanku"
+            android:hint="  Podaj nazwę przystanku"
             android:iconifiedByDefault="true"
             android:textAlignment="viewStart"
             app:layout_constraintEnd_toEndOf="parent"
@@ -27,7 +27,7 @@
 
         <GridView
             android:id="@+id/lines_grid"
-            android:numColumns="5"
+            android:numColumns="4"
             android:verticalSpacing="35dp"
             android:horizontalSpacing="10dp"
             android:isScrollContainer="true"
