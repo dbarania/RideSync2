@@ -1,5 +1,6 @@
 package com.example.myapplication
 
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -16,6 +17,11 @@ class recyclerAdapter(private  val itemList:List<String>):RecyclerView.Adapter<r
     override fun onBindViewHolder(holder: recyclerAdapter.ViewHolder, position: Int) {
         val item = itemList[position]
         holder.textView.text = item
+        holder.itemView.setOnClickListener{
+            val context = holder.itemView.context
+            val intent = Intent(context,final_results_c::class.java)
+            context.startActivity(intent)
+        }
     }
 
     override fun getItemCount(): Int {
