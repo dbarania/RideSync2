@@ -17,7 +17,7 @@
             android:layout_margin="8dp"
             android:background="@drawable/search_bar_bg"
             android:completionHintView="@layout/hint_text"
-            android:hint="@string/nie"
+            android:hint="Podaj nazwę przystanku"
             android:iconifiedByDefault="true"
             android:textAlignment="viewStart"
             app:layout_constraintEnd_toEndOf="parent"

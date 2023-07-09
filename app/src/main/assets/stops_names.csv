@@ -1,0 +1,660 @@
+id,name
+1,Dąbrowa Centrum
+2,Kameliowa
+3,Paprykowa
+4,Szafranowa
+5,Leśna Polana
+6,Centrum Nadawcze RTV
+7,Gdyńska
+8,Chwaszczyno
+9,Anyżowa
+10,Wiejska
+11,Rdestowa - Leśny Zakątek
+12,Port Lotniczy
+13,Muzeum II Wojny Światowej
+14,Wrzeszcz PKP
+15,Karwiny PKM
+16,Oliwa PKP
+17,Źródło Marii
+18,Oliwa
+19,Żabianka SKM
+20,Myśliwska
+21,Jelitkowo Kapliczna
+22,Zaspa SKM
+23,Nowy Port Szaniec Zachodni
+24,Migowo
+25,Chełm Cienista
+26,Orunia Górna
+27,Bartnicza
+28,Równa
+29,Olszynka - Szkoła
+30,Górki Zachodnie
+31,Westerplatte
+32,Górki Wschodnie
+33,Przegalina
+34,Nałkowskiej
+35,Lipuska
+36,Bysewo
+37,Matemblewo
+38,Suchanino
+39,Niedźwiednik
+40,Oliwa ZOO
+41,Sztutowska
+42,Jelitkowo
+43,Osowa PKP
+44,Maćkowy
+45,Chełm - Więckowskiego
+46,Komarowo
+47,Św. Wojciech
+48,Kiełpino Górne
+49,Kampinoska
+50,Olimpijska
+51,Łostowice Świętokrzyska
+52,Zakoniczyn
+53,Jaworzniaków
+54,Jasień Pólnicy
+55,Zaspa
+56,Siedlce
+57,Stogi
+58,Stogi Plaża
+59,Nowy Port Góreckiego
+60,Brzeźno Dom Zdrojowy
+61,Strzyża PKM
+62,Brzeźno Plaża
+63,Zajezdnia NOWY PORT
+64,Baza Hallera
+65,Wały Piastowskie 
+66,Aksamitna
+67,Rybaki Górne
+68,Śródmieście SKM
+69,Toruńska
+70,Łagiewniki
+71,Wały Piastowskie
+72,Plac Komorowskiego
+73,Dworzec Główny
+74,Tamka
+75,Hucisko
+76,Brama Wyżynna
+77,Cygańska Góra
+78,Pomorskie Szkoły Rzemiosł
+79,Chłodna
+80,Żabi Kruk
+81,Długie Ogrody
+82,Brama Żuławska
+83,Bajki
+84,Elbląska
+85,Dickensa
+86,Kaczeńce - Sienna
+87,Sucharskiego
+88,Sówki
+89,Steczka
+90,Kępna
+91,Baza Manipulacyjna
+92,Łęczycka
+93,Łowicka
+94,Wosia Budzysza
+95,Sucharskiego - PKP
+96,Ku Ujściu
+97,Przystań Żeglugi
+98,Europejskie Centrum Solidarności
+99,Żarnowiecka
+100,Siennicka
+101,Przetoczna
+102,Przejazd Kolejowy
+103,Kujawska
+104,Mostek
+105,Miałki Szlak
+106,Węzeł Elbląska
+107,Błonia
+108,Tarcice
+109,Michałki
+110,Rafineria
+111,Chrobrego
+112,Ostroroga
+113,Klonowicza
+114,Leszczyńskich
+115,Meissnera
+116,Olsztyńska
+117,Radunica
+118,Sobieszewo
+119,Kanałowa
+120,Pole Namiotowe
+121,Lazurowa
+122,Orlinki
+123,Kwiatowa
+124,Trałowa - Szkoła
+125,Kempingowa
+126,Węgorzowa
+127,Przystań
+128,Świbnieńska I
+129,Uzdrowiskowa
+130,Świbnieńska III
+131,Przegalińska
+132,Benzynowa
+133,Oczyszczalnia
+134,Naftowa
+135,Płońska
+136,Zagroble
+137,Migdałowa
+138,Cedrowa
+139,Nowa Gdańska
+140,Jodowa
+141,Tęczowa
+142,Nadwiślańska
+143,Ornitologów
+144,Sierpowa
+145,Bratki
+146,Gęsia
+147,Olszynka - Niwki
+148,Zawodzie
+149,Maki
+150,Muzeum Narodowe
+151,Dolna
+152,Wróbla
+153,Urząd Wojewódzki / Marszałkowski
+154,Brama Nizinna
+155,Mostowa
+156,Zaroślak
+157,Brama Oruńska
+158,Stare Szkoty
+159,Sandomierska
+160,Rejtana
+161,Gościnna
+162,Nowiny
+163,Urząd Dozoru Technicznego
+164,Ukośna
+165,Niegowska
+166,Węzeł Lipce
+167,Ostróżek
+168,Ptasia
+169,Małomiejska
+170,Platynowa
+171,Uranowa
+172,Dom Pomocy Społecznej
+173,Stoczniowców
+174,Wronki
+175,Cieszyńskiego
+176,Sikorskiego
+177,Pohulanka
+178,Odrzańska
+179,Worcella
+180,Drwęcka (n/ż)
+181,Chałubińskiego
+182,Urząd Miejski
+183,Bema
+184,Zakopiańska
+185,Emaus
+186,Zielony Stok
+187,Pagórkowa
+188,Lipowa
+189,Damroki
+190,Zwierzyniecka
+191,Źródlana
+192,Jasień Działki
+193,Węzeł Karczemki
+194,Karczemki
+195,Inżynierska
+196,Fabryczna
+197,Kokoszki
+198,Transportowców
+199,Nowatorów
+200,Kokoszki - Poczta
+201,Gronostajowa
+202,Pólnicy
+203,Unimor
+204,Centrostal
+205,"Schronisko dla zwierząt ""Promyk"""
+206,Instal
+207,Otomińska
+208,Kiełpino - Szkoła
+209,Cmentarz Łostowicki
+210,Kielecka
+211,Przemyska
+212,Płocka
+213,Orląt Lwowskich
+214,Niepołomicka
+215,Przebiśniegowa
+216,Przemian
+217,Starogardzka
+218,Hevelianum
+219,Płowce
+220,Wyczółkowskiego
+221,Wagnera
+222,Otwarta
+223,Kurpińskiego
+224,Nad Jarem
+225,Wileńska
+226,Park Naukowo - Technologiczny
+227,Jaśkowa Dolina
+228,Nowolipie
+229,Matejki
+230,Uphagena
+231,Siedlicka
+232,Kręta
+233,Jarowa
+234,Schumana
+235,Schuberta
+236,Na Wzgórzu - Teatr Leśny
+237,Sobótki
+238,Falista
+239,Strzelnica
+240,Dobrowolskiego
+241,Piecewska
+242,Budapesztańska
+243,Brętowo PKM
+244,Kolumba
+245,Galeria Bałtycka
+246,Chrzanowskiego
+247,Srebrniki
+248,Trawki
+249,Potokowa
+250,Rybacka
+251,Słowackiego Działki
+252,Harfowa
+253,Agrarna
+254,Astronautów
+255,Szybowcowa
+256,Firoga
+257,Wrzeszczańska
+258,Wojnarskiego
+259,Ikara
+260,Radiowa
+261,Spadochroniarzy
+262,Rakietowa
+263,Kosmonautów
+264,"Ogrody Działkowe ""Rębiechowo"" II"
+265,"Ogrody Działkowe ""Rębiechowo"" I"
+266,Przyrodników
+267,Ogrodowa
+268,Dolne Młyny
+269,Potokowa - Matemblewska
+270,Podkarpacka
+271,Kilińskiego
+272,Legionów
+273,Kopalniana
+274,Ciołkowskiego
+275,Drzewieckiego
+276,Korczaka
+277,Zaspa - Szpital
+278,Czarny Dwór
+279,Grudziądzka
+280,Lwowska
+281,Mickiewicza
+282,Biała
+283,Bora-Komorowskiego
+284,Czerwony Dwór
+285,Jagiellońska
+286,Park Reagana
+287,Biały Dwór
+288,Opolska
+289,Kołobrzeska
+290,Krynicka
+291,Chłopska
+292,Obrońców Wybrzeża
+293,Przymorze Wielkie
+294,Rzeczypospolitej
+295,Dywizjonu 303
+296,Pilotów
+297,Pomorska
+298,Piastowska
+299,Dworska
+300,PCK
+301,Zespół Szkół Morskich
+302,Wyzwolenia
+303,Władysława IV
+304,Cystersów
+305,Przemysłowa
+306,Karwieńska
+307,Rynarzewo
+308,Chopina
+309,Osowa Obwodnica
+310,Sopocka
+311,Nowowiejskiego
+312,Nowa
+313,Urząd Skarbowy
+314,1 Maja
+315,Barniewicka
+316,Niedziałkowskiego
+317,Biwakowa
+318,Konstelacji
+319,Nowy Świat
+320,Tysiąclecia
+321,Poznańska
+322,Park Oliwski
+323,Sarnia
+324,Cmentarz Oliwski
+325,Bobrowa
+326,Czyżewskiego
+327,Brama Oliwska
+328,Koziorożca
+329,Zeusa
+330,Konkordii
+331,Archikatedra Oliwska
+332,Startowa
+333,Pomorska - Osiedle
+334,Iławska
+335,Myśliborska
+336,Krzemowa
+337,al. Płażyńskiego
+338,Krasickiego
+339,Plac Wolności
+340,Teatr Miniatura / Radio Gdańsk
+341,Opera Bałtycka
+342,Uniwersytet Medyczny
+343,Kościuszki
+344,Pogotowie Ratunkowe
+345,Wojska Polskiego
+346,Łanowa II
+347,Zajezdnia
+348,Rondo Kaszubskie
+349,Wyspiańskiego
+350,Złota Karczma
+351,Mjr Słabego
+352,Żwirki i Wigury
+353,Obrońców Westerplatte
+354,Bażyńskiego
+355,Uniwersytet Gdański
+356,Zamenhofa
+357,Jednorożca
+358,Marynarki Polskiej
+359,Śnieżna
+360,Polsat Plus Arena Gdańsk
+361,Swojska
+362,Stocznia Północna
+363,Świbnieńska II
+364,Dworkowa
+365,Akademia Muzyczna
+366,Kamienna Grobla
+367,Opacka
+368,Górskiego
+369,Nadwodna
+370,Przesypownia
+371,Jeziorowa
+372,Jaworowa
+373,Boguckiego
+374,Dobra
+375,Szadółki
+376,Przywidzka
+377,Na Szańcach
+378,Kopeckiego
+379,Łanowa I
+380,Łanowa III
+381,Łanowa IV
+382,Modra I
+383,Modra II
+384,Modra III
+385,Modra IV
+386,Bursztynowa
+387,Powstanców Warszawy/Drzymały
+388,Dąbrowskiego
+389,Powstańców Warszawy
+390,Emilii Plater
+391,Życzliwa
+392,Reymonta
+393,Gostyńska Szpital
+394,Osiedle Wschód
+395,Piekarnicza
+396,Belgradzka
+397,"SDO ""Złota Jesień"""
+398,Skarżyńskiego
+399,Odyseusza
+400,Terminal - Cargo
+401,Kopernika/Sienkiewicza
+402,Chopina/Rondo
+403,Zastawna/Rondo
+404,Karskiego
+405,Chopina/Waląga
+406,Batalionów Chłopskich
+407,Chopina/Żwirki i Wigury
+408,Beniowskiego
+409,Wiśniewskiego
+410,Świętokrzyska
+411,Osiedle Piastowskie
+412,Góralska
+413,"Ogrody Działkowe ""Rębiechowo"" III"
+414,Rozstaje
+415,Srebrna
+416,Falowa
+417,Stokrotki
+418,Gospody
+419,Sobieszewska
+420,Oriona
+421,Hynka
+422,Olszyńska
+423,Przybrzeżna
+424,Kolonia Mysia
+425,Osiedle Kasprowicza
+426,Głucha
+427,Fabryczny
+428,Keplera
+429,Wodnika
+430,Wieżycka
+431,Przymorze SKM
+432,Abrahama
+433,Łapińska
+434,Liliowa
+435,Szadółki Obwodnica
+436,Lubowidzka
+437,Potęgowska
+438,Połczyńska
+439,Norblina
+440,Bajana
+441,Forsycji
+442,Katarzynki
+443,Heweliusza
+444,"Hala ""Olivia"""
+445,Turystyczna
+446,Sąsiedzka
+447,Wołkowyska
+448,Zacna
+449,Staw Wróbla
+450,Czermińskiego
+451,Szmaragdowa
+452,Knyszyńska
+453,Osiedle Jary
+454,Rogalińska
+455,Smoluchowskiego
+456,Marsa
+457,Owczarnia
+458,Kontenerowa
+459,Śluza
+460,Terminal DCT
+461,Hokejowa
+462,Telewizyjna
+463,Zbieżna
+464,Centrum Onkologii
+465,Traugutta
+466,Szpital Zakaźny
+467,Radarowa
+468,Centrum Medycyny Inwazyjnej
+469,Zabytkowa
+470,Cmentarz Srebrzysko
+471,Przytulna
+472,Szczęśliwa
+473,Porębskiego
+474,Osiedle Świętokrzyskie
+475,Elfów
+476,Baśniowa
+477,Rębowo
+478,Leszczynowa
+479,Jabłoniowa Osiedle
+480,Wilanowska
+481,Piotrkowska
+482,Jeleniogórska
+483,Żaglowa - AmberExpo
+484,Uczniowska
+485,Chodowieckiego
+486,Politechnika
+487,Miszewskiego
+488,Klonowa
+489,Tetmajera
+490,Derdowskiego
+491,Subisława
+492,Osiedle Wejhera
+493,Helska
+494,Plac Solidarności
+495,Stocznia SKM
+496,Twarda
+497,Politechnika SKM
+498,Reja
+499,Jana Pawła II
+500,Okopowa
+501,Chmielna
+502,Kaczeńce
+503,Ugory eMOCja
+504,Powstańców Warszawskich
+505,Borowiecka
+506,Paska
+507,Pastelowa
+508,Ciasna
+509,Meteorytowa
+510,Dwór Ferberów
+511,Skrajna
+512,Brzegi
+513,Węzeł Kliniczna
+514,Cmentarna
+515,Leśna Góra
+516,Leśna Góra - Przychodnia
+517,Mostostal
+518,Mjr Hubala
+519,Meczet
+520,Szpital Marynarki Wojennej
+521,Jasia i Małgosi
+522,Broniewskiego
+523,Kolonia Uroda
+524,Górecka
+525,Gdańska
+526,Przylesie
+527,Sternicza
+528,Okrężna
+529,Wczasy
+530,3 Maja
+531,Mazurska
+532,Smolna
+533,Kasztanowa
+534,Latarnia Morska
+535,Sopot PKP - Niepodległości
+536,"Hotel ""Marina"""
+537,Hestii
+538,Polna
+539,Bitwy pod Płowcami
+540,"Sanatorium ""Leśnik"""
+541,Kamienny Potok SKM
+542,Wejherowska
+543,Malczewskiego
+544,Wybickiego
+545,Kochanowskiego
+546,Młyńska
+547,Plac Kusocińskiego
+548,Korty Tenisowe
+549,Grand Hotel
+550,Grunwaldzka
+551,Cebertowicza
+552,Bohaterów Monte Cassino
+553,Goyki
+554,Brodwino Szkoła
+555,23 Marca
+556,Focha
+557,Wysockiego
+558,Jasieńska
+559,Jasień PKM
+560,Biblioteka Główna UG
+561,Matarnia PKM
+562,Junaków
+563,Małopolska
+564,Kolberga
+565,Brodwino
+566,Rondo Mazowieckiego
+567,Faktoria
+568,Cyprysowa
+569,Cicha (Cmentarz)
+570,Osiedle Bursztynowe
+571,Zastawna
+572,Rogozińskiego
+573,Słowackiego
+574,Andruszkiewicza
+575,Powstańców Warszawy/Plater
+576,Powstańców Warszawy/Gałczyńskiego
+577,Osiedle Olimp
+578,Plac Afrodyty
+579,Szkoła Metropolitalna
+580,Starowiejska
+581,Kasztelańska
+582,Szlachecka
+583,Jankowo
+584,Bogatka II
+585,Bogatka I
+586,Bogatka III
+587,Makro
+588,Hotel
+589,Łąkowa
+590,Sezonowa
+591,Brzegowa
+592,Pocztowa
+593,Sportowa
+594,Piaskowa
+595,Szkoła
+596,Kopernika/Azaliowa
+597,Jagiełły
+598,Jana z Kolna
+599,Hospicjum
+600,Rondo Bursztynowe
+601,Trakt Konny
+602,Sulmin
+603,Sulmińska
+604,Do Zdroju
+605,Stara Piła
+606,Nad Stawem
+607,Osiedle Cytrusowe
+608,Topazowa
+609,Kolorowa
+610,Dziewicza
+611,Otomin - Pętla
+612,Trakt Gdański
+613,Wrzosowe Wzgórze
+614,Kraszewskiego
+615,Zajezdnia WRZESZCZ
+616,Rotmanka - Rondo
+617,Królewskie Wzgórze
+618,Łabędzia
+619,Stolema
+620,Zabornia
+621,Lawendowe Wzgórze
+622,Ujeścisko
+623,Pokładowa
+624,Geodetów
+625,Kłosowa
+626,Maszynowa
+627,Bałtycka
+628,Klubowa
+629,Wiślina
+630,Paderewskiego
+631,Stężycka
+632,Łagowska
+633,Kolbudzka
+634,Rdestowa - Kolonia
+635,Barzychowskiej
+636,Podleckiego
+637,Nytbusz
+638,Bielińskiego
+639,Warneńska
+640,Łódzka
+641,Częstochowska
+642,Stokłosy
+643,Głęboka
+644,Przeróbka
+645,Lenartowicza
+646,Zimna
+647,Rozłogi
+648,Nowosądecka
+649,Brzozowa
+650,Nowy Port Zajezdnia
+651,Nowy Port Oliwska
+652,Rybołowców
+653,Przychodnia
+654,Na Zaspę
+655,Rębiechowo PKP
+656,Oliwska
+657,Kaszubska Droga
+658,Pszenna
+659,Karwiny Nowowiczlińska
