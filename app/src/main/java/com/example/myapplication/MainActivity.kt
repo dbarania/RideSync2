@@ -5,6 +5,8 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import android.widget.ArrayAdapter
+import android.widget.AutoCompleteTextView
 import android.widget.GridView
 import java.io.BufferedReader
 import java.io.IOException
@@ -16,9 +18,20 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        var routeList = readRoutesCSVData(applicationContext,"routes.csv")
+        val routeList = readRoutesCSVData(applicationContext,"routes.csv")
+        val stopsMap = readStopCSVData(applicationContext,"stops_names.csv")
         setContentView(R.layout.main_page_a)
         lineGV = findViewById(R.id.lines_grid)
+        val searchBar = findViewById<AutoCompleteTextView>(R.id.search_bar)
+        val adapterArray = ArrayAdapter(applicationContext,android.R.layout.simple_spinner_dropdown_item,stopsMap.keys.toTypedArray())
+        searchBar.setAdapter(adapterArray)
+        searchBar.setOnItemClickListener{parent,view,position,id->
+            val selectedKey = parent.getItemAtPosition(position) as String
+
+            val intent = Intent(this, final_results_c::class.java)
+            intent.putExtra("selectedKey", selectedKey)
+            startActivity(intent)
+        }
 
         val adapter = gridAdapter(this,routeList){x->chosenRoute = x
         Log.d("MainActivity", "nie value: $chosenRoute")
@@ -28,7 +41,7 @@ class MainActivity : AppCompatActivity() {
     }
     private fun startNewActivity(){
         val intent = Intent(this,stops_b::class.java)
-        intent.putExtra("nieValue",chosenRoute)
+        intent.putExtra("choserRoute",chosenRoute)
         startActivity(intent)
     }
 }
