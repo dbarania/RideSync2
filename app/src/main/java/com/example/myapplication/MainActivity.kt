@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
     }
     private fun startNewActivity(){
         val intent = Intent(this,stops_b::class.java)
-        intent.putExtra("choserRoute",chosenRoute)
+        intent.putExtra("chosenRoute",chosenRoute)
         startActivity(intent)
     }
 }

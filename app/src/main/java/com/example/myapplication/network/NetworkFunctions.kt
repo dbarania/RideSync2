@@ -2,13 +2,14 @@ package com.example.myapplication.network
 
 import android.util.Log
 import android.widget.TextView
+import com.example.myapplication.StopsCallBack
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
-private fun getStopsFromLine(lista: MutableList<Int>, line: Int) {
+fun getStopsFromLine(lista: MutableList<Int>, line: Int, callback: StopsCallBack) {
     val api = Retrofit.Builder()
         .baseUrl(BASE_URL)
         .addConverterFactory(GsonConverterFactory.create())
@@ -25,7 +26,7 @@ private fun getStopsFromLine(lista: MutableList<Int>, line: Int) {
                     val stopSeqences: HashMap<String, Int> = it.stopSequence
 
                     // Handle the data as needed
-                    //Log.i(TAG, "onResponse: ${ids.values}, ${stopIds}, ${stopSeqences}")
+                    Log.i("F", "onResponse: ${ids.values}, ${stopIds}, ${stopSeqences}")
 
                     // Clear the existing elements in the 'lista' mutable list
                     lista.clear()

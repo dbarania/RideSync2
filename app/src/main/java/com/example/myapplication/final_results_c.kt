@@ -9,6 +9,6 @@ class final_results_c : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_final_results_c)
         val selectedKey = intent.getStringExtra("selectedKey")
-        Log.d("A", "itamy w c $selectedKey")
+        Log.d("A", "witamy w c $selectedKey")
     }
 }
